@@ -2,7 +2,6 @@
 File name: 17_thermistor.ino
 Description: The information which a thermistor collects 
              temperature is displayed on the LCD1602.
-Date: 2015/05/02 
 ***********************************************************/
 
 #include <LiquidCrystal.h>
