@@ -2,8 +2,6 @@
 File name:   28_brightnessPhotoresistor.ino
 Description: Arduino and processing interactive
              Phototresistor control the brightness of the photo
-
-Date: 2015/05/02 
 ***********************************************************/
 #define photoresistorPin 0
 int sensorValue;
